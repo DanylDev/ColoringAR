@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 7f3a27b3283bdb84895c7785812dbb51
+timeCreated: 1510151500
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Big Leaf
+    100002: Big Leaf001
+    100004: Big Leaf002
+    100006: Big Leaf003
+    100008: Big Leaf004
+    100010: Big Leaf005
+    100012: Big Plane002
+    100014: Big Plane1
+    100016: Bip001
+    100018: Bip001 Head
+    100020: Bip001 HeadNub
+    100022: Bip001 L Calf
+    100024: Bip001 L Clavicle
+    100026: Bip001 L Finger0
+    100028: Bip001 L Finger01
+    100030: Bip001 L Finger02
+    100032: Bip001 L Finger0Nub
+    100034: Bip001 L Finger1
+    100036: Bip001 L Finger11
+    100038: Bip001 L Finger12
+    100040: Bip001 L Finger1Nub
+    100042: Bip001 L Finger2
+    100044: Bip001 L Finger21
+    100046: Bip001 L Finger22
+    100048: Bip001 L Finger2Nub
+    100050: Bip001 L Foot
+    100052: Bip001 L Forearm
+    100054: Bip001 L Hand
+    100056: Bip001 L Thigh
+    100058: Bip001 L Toe0
+    100060: Bip001 L Toe0Nub
+    100062: Bip001 L UpperArm
+    100064: Bip001 Neck
+    100066: Bip001 Pelvis
+    100068: Bip001 R Calf
+    100070: Bip001 R Clavicle
+    100072: Bip001 R Finger0
+    100074: Bip001 R Finger01
+    100076: Bip001 R Finger02
+    100078: Bip001 R Finger0Nub
+    100080: Bip001 R Finger1
+    100082: Bip001 R Finger11
+    100084: Bip001 R Finger12
+    100086: Bip001 R Finger1Nub
+    100088: Bip001 R Finger2
+    100090: Bip001 R Finger21
+    100092: Bip001 R Finger22
+    100094: Bip001 R Finger2Nub
+    100096: Bip001 R Foot
+    100098: Bip001 R Forearm
+    100100: Bip001 R Hand
+    100102: Bip001 R Thigh
+    100104: Bip001 R Toe0
+    100106: Bip001 R Toe0Nub
+    100108: Bip001 R UpperArm
+    100110: Bip001 Spine
+    100112: Bip001 Spine1
+    100114: Bip001 Spine2
+    100116: body R
+    100118: Box001
+    100120: Box002
+    100122: Box003
+    100124: frut
+    100126: frut001
+    100128: //RootNode
+    100130: leaf002
+    100132: leaf003
+    100134: leaf004
+    100136: leaf005
+    100138: leaf006
+    100140: leaf007
+    100142: leaf008
+    100144: leaf009
+    100146: leaf010
+    100148: leaf011
+    100150: leaf012
+    100152: leaf013
+    100154: leaf014
+    100156: leaf015
+    100158: leaf016
+    100160: leaf017
+    100162: leaf018
+    100164: leaf019
+    100166: leaf020
+    100168: Line003
+    100170: Line004
+    100172: part flower
+    100174: part flower001
+    100176: part flower002
+    100178: part flower003
+    100180: part flower004
+    100182: serga
+    100184: serga001
+    400000: Big Leaf
+    400002: Big Leaf001
+    400004: Big Leaf002
+    400006: Big Leaf003
+    400008: Big Leaf004
+    400010: Big Leaf005
+    400012: Big Plane002
+    400014: Big Plane1
+    400016: Bip001
+    400018: Bip001 Head
+    400020: Bip001 HeadNub
+    400022: Bip001 L Calf
+    400024: Bip001 L Clavicle
+    400026: Bip001 L Finger0
+    400028: Bip001 L Finger01
+    400030: Bip001 L Finger02
+    400032: Bip001 L Finger0Nub
+    400034: Bip001 L Finger1
+    400036: Bip001 L Finger11
+    400038: Bip001 L Finger12
+    400040: Bip001 L Finger1Nub
+    400042: Bip001 L Finger2
+    400044: Bip001 L Finger21
+    400046: Bip001 L Finger22
+    400048: Bip001 L Finger2Nub
+    400050: Bip001 L Foot
+    400052: Bip001 L Forearm
+    400054: Bip001 L Hand
+    400056: Bip001 L Thigh
+    400058: Bip001 L Toe0
+    400060: Bip001 L Toe0Nub
+    400062: Bip001 L UpperArm
+    400064: Bip001 Neck
+    400066: Bip001 Pelvis
+    400068: Bip001 R Calf
+    400070: Bip001 R Clavicle
+    400072: Bip001 R Finger0
+    400074: Bip001 R Finger01
+    400076: Bip001 R Finger02
+    400078: Bip001 R Finger0Nub
+    400080: Bip001 R Finger1
+    400082: Bip001 R Finger11
+    400084: Bip001 R Finger12
+    400086: Bip001 R Finger1Nub
+    400088: Bip001 R Finger2
+    400090: Bip001 R Finger21
+    400092: Bip001 R Finger22
+    400094: Bip001 R Finger2Nub
+    400096: Bip001 R Foot
+    400098: Bip001 R Forearm
+    400100: Bip001 R Hand
+    400102: Bip001 R Thigh
+    400104: Bip001 R Toe0
+    400106: Bip001 R Toe0Nub
+    400108: Bip001 R UpperArm
+    400110: Bip001 Spine
+    400112: Bip001 Spine1
+    400114: Bip001 Spine2
+    400116: body R
+    400118: Box001
+    400120: Box002
+    400122: Box003
+    400124: frut
+    400126: frut001
+    400128: //RootNode
+    400130: leaf002
+    400132: leaf003
+    400134: leaf004
+    400136: leaf005
+    400138: leaf006
+    400140: leaf007
+    400142: leaf008
+    400144: leaf009
+    400146: leaf010
+    400148: leaf011
+    400150: leaf012
+    400152: leaf013
+    400154: leaf014
+    400156: leaf015
+    400158: leaf016
+    400160: leaf017
+    400162: leaf018
+    400164: leaf019
+    400166: leaf020
+    400168: Line003
+    400170: Line004
+    400172: part flower
+    400174: part flower001
+    400176: part flower002
+    400178: part flower003
+    400180: part flower004
+    400182: serga
+    400184: serga001
+    2300000: Big Leaf
+    2300002: Big Leaf001
+    2300004: Big Leaf002
+    2300006: Big Leaf003
+    2300008: Big Leaf004
+    2300010: Big Leaf005
+    2300012: Big Plane002
+    2300014: Big Plane1
+    2300016: body R
+    2300018: Box001
+    2300020: Box002
+    2300022: Box003
+    2300024: frut
+    2300026: frut001
+    2300028: leaf002
+    2300030: leaf003
+    2300032: leaf004
+    2300034: leaf005
+    2300036: leaf006
+    2300038: leaf007
+    2300040: leaf008
+    2300042: leaf009
+    2300044: leaf010
+    2300046: leaf011
+    2300048: leaf012
+    2300050: leaf013
+    2300052: leaf014
+    2300054: leaf015
+    2300056: leaf016
+    2300058: leaf017
+    2300060: leaf018
+    2300062: leaf019
+    2300064: leaf020
+    2300066: part flower
+    2300068: part flower001
+    2300070: part flower002
+    2300072: part flower003
+    2300074: part flower004
+    2300076: serga
+    2300078: serga001
+    3300000: Big Leaf
+    3300002: Big Leaf001
+    3300004: Big Leaf002
+    3300006: Big Leaf003
+    3300008: Big Leaf004
+    3300010: Big Leaf005
+    3300012: Big Plane002
+    3300014: Big Plane1
+    3300016: body R
+    3300018: Box001
+    3300020: Box002
+    3300022: Box003
+    3300024: frut
+    3300026: frut001
+    3300028: leaf002
+    3300030: leaf003
+    3300032: leaf004
+    3300034: leaf005
+    3300036: leaf006
+    3300038: leaf007
+    3300040: leaf008
+    3300042: leaf009
+    3300044: leaf010
+    3300046: leaf011
+    3300048: leaf012
+    3300050: leaf013
+    3300052: leaf014
+    3300054: leaf015
+    3300056: leaf016
+    3300058: leaf017
+    3300060: leaf018
+    3300062: leaf019
+    3300064: leaf020
+    3300066: part flower
+    3300068: part flower001
+    3300070: part flower002
+    3300072: part flower003
+    3300074: part flower004
+    3300076: serga
+    3300078: serga001
+    4300000: Box001
+    4300002: leaf002
+    4300004: frut
+    4300006: leaf003
+    4300008: leaf004
+    4300010: leaf005
+    4300012: leaf006
+    4300014: leaf007
+    4300016: leaf008
+    4300018: leaf009
+    4300020: leaf010
+    4300022: leaf011
+    4300024: leaf012
+    4300026: leaf013
+    4300028: leaf014
+    4300030: leaf015
+    4300032: leaf016
+    4300034: leaf017
+    4300036: leaf018
+    4300038: body R
+    4300040: serga
+    4300042: serga001
+    4300044: Box002
+    4300046: Box003
+    4300048: Big Plane1
+    4300050: Big Plane002
+    4300052: frut001
+    4300054: leaf019
+    4300056: leaf020
+    4300058: part flower003
+    4300060: part flower002
+    4300062: part flower
+    4300064: part flower001
+    4300066: part flower004
+    4300068: Big Leaf002
+    4300070: Big Leaf001
+    4300072: Big Leaf
+    4300074: Big Leaf003
+    4300076: Big Leaf004
+    4300078: Big Leaf005
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
